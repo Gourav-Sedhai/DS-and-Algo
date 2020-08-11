@@ -1,2 +1,2 @@
 # DS-and-Algo
-Array sequences
+Array Sequence Examples.
